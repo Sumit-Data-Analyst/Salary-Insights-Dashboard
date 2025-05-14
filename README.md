@@ -63,5 +63,7 @@ To visualize and explore data science salary insights using interactive filters 
 ---
 
 ## 👤 Author
-Sumit Kumar
-📧 sumitkumar02269@gmail.com
+
+**Sumit Kumar**  
+📧 [sumitkumar02269@gmail.com](mailto:sumitkumar02269@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sumit-kumar-24b264330) 
