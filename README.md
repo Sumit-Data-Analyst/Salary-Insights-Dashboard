@@ -54,12 +54,14 @@ To visualize and explore data science salary insights using interactive filters 
 
 ## 📂 Project Structure
 
-📁 data-science-salary-dashboard
-├── 📊 SalaryDashboard.pbix # Power BI file
-├── 📁 data # Raw and cleaned datasets
-├── 📁 images # Dashboard snapshots
-└── 📄 README.md # Project documentation
+-📁 data-science-salary-dashboard
+-📊 SalaryDashboard.pbix # Power BI file
+-📁 data # Raw and cleaned datasets
+-📁 images # Dashboard snapshots
+-📄 README.md # Project documentation
 
-👤 Author
+---
+
+## 👤 Author
 Sumit Kumar
 📧 sumitkumar02269@gmail.com
