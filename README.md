@@ -1,4 +1,4 @@
-# 💼 Data Science Salary Dashboard
+# 💼Salary Dashboard
 
 An interactive Power BI dashboard that showcases salary trends and job market statistics in the data science field. This dashboard offers insights into compensation based on job roles, employment type, and geographic location — helping job seekers and hiring managers make informed decisions.
 
@@ -6,7 +6,7 @@ An interactive Power BI dashboard that showcases salary trends and job market st
 
 ## 🖼️ Project Snapshot
 
-![Data Science Salary Dashboard](./path-to-your-image.png) <!-- Update with your GitHub image path -->
+![Salary Dashboard](https://github.com/Sumit-Data-Analyst/Netflix-Data-Dashboard--2008-2021-/blob/main/Capture.PNG?raw=true)
 
 ---
 
