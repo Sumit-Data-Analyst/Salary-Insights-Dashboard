@@ -6,7 +6,7 @@ An interactive Power BI dashboard that showcases salary trends and job market st
 
 ## 🖼️ Project Snapshot
 
-![Salary Dashboard](https://github.com/Sumit-Data-Analyst/Netflix-Data-Dashboard--2008-2021-/blob/main/Capture.PNG?raw=true)
+![Salary Dashboard]((https://github.com/Sumit-Data-Analyst/Salary-Insights-Dashboard/blob/main/ex.PNG)
 
 ---
 
